@@ -9,8 +9,8 @@ n=$1
 #eq - equal
 #ne - not equal
 
-if [ $n -gt 20 ] ; then
-echo  " given number $n is greather than 20"
+if [ $n -ge 20 ]; then
+    echo  " given number $n is greather than 20"
 else
-echo "given number $n is less than 20"
+    echo "given number $n is less than 20"
 fi
