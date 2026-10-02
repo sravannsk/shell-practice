@@ -13,3 +13,4 @@ if [n > 20] ; then
 echo  " given number $n is greather than 20"
 else
 echo "given number $n is less than 20"
+fi
